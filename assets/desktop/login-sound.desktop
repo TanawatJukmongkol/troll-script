@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Exec=pw-play --volume=0.42 $HOME/.local/share/sounds/WinXP/stereo/desktop-login.oga
+Name=BINBOWS XP
+Comment=Michlesoft Windblows startup sound
+Terminal=false
+OnlyShowIn=GNOME
+Type=Application
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
